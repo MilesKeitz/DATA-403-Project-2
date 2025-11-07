@@ -10,3 +10,7 @@ data/sample_submission.csv
 data/previous_application.csv
 data/home-credit-default-risk.zip
 data/HomeCredit_columns_description.csv 
+results/xgb_narrow_learning_search_results.csv
+results/xgb_search2_expanded_results.csv
+results/xgb_search2_results.csv
+results/xgb_search1_results.csv
